@@ -1,0 +1,36 @@
+.form{
+    font-size: 28px;
+    color: violet;
+    text-align: center;
+    margin-top: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.msj{
+    font-size: 20px;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tableDates {
+  border-collapse: collapse;
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid gray;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tableDates th,
+.tableDates td {
+  padding: 8px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tableDates thead {
+  background-color: violet;
+  color: white;
+}
+

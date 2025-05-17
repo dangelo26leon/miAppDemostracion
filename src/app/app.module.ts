@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule //El enrutamiento principal debe estar aquí
   ],
   providers: [],
   bootstrap: [AppComponent]

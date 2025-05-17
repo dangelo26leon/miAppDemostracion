@@ -1,0 +1,23 @@
+.titule{
+    font-size: 28px;
+    color: rgb(219, 81, 81);
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.msj{
+    font-size: 20px;
+    color: darkslategray;
+    text-align: center;
+    margin-top: 10px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.msj2{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    font-family:'Courier New', Courier, monospace;
+}

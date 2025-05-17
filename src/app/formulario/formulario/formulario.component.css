@@ -1,0 +1,65 @@
+.form{
+    font-size: 28px;
+    color: yellowgreen;
+    text-align: center;
+    margin-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.msj{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.myForm {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.FormGroup {
+  margin-bottom: 15px;
+}
+
+.FormGroup label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.FormGroup input {
+  width: 100%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.FormButton {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 15px; 
+  
+}
+
+.FormButton button {
+  padding: 8px 20px;
+  background-color: grey;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.FormButton button:hover {
+  background-color: greenyellow;
+}
