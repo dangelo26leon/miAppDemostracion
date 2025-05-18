@@ -3,7 +3,7 @@ import { RouterModule,Routes } from "@angular/router";
 import { FormularioComponent } from "./formulario/formulario.component";
 
 const routes: Routes = [
-    {path: '' , component: FormularioComponent} //Ruta Vacia porque es home
+    {path: '' , component: FormularioComponent} 
 ];
 
 @NgModule({

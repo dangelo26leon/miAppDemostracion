@@ -3,7 +3,7 @@ import { RouterModule,Routes } from "@angular/router";
 import { TablaComponent } from "./tabla/tabla.component";
 
 const routes: Routes = [
-    {path: '' , component: TablaComponent} //Ruta Vacia porque es home
+    {path: '' , component: TablaComponent} 
 ];
 
 @NgModule({
